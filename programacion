@@ -1,0 +1,112 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPDdYfJaZiu6WAY5z2N01ty",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/ErickAriel19/lenguajes-de-programacion-consulta/blob/main/programacion\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Lenguaje C++\n",
+        "**Introducción:**\n",
+        "C++ es un lenguaje de programación de alto rendimiento que permite trabajar tanto con programación orientada a objetos como con programación de bajo nivel. Es muy utilizado en videojuegos, sistemas operativos, software de ingeniería y aplicaciones de alto desempeño.\n",
+        "\n",
+        "**Hola mundo:**\n",
+        "\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "vVg7jTCNNu5Q"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#include <iostream>\n",
+        "\n",
+        "int main() {\n",
+        "    std::cout << \"Hola, Mundo\" << std::endl;\n",
+        "    return 0;\n",
+        "}"
+      ],
+      "metadata": {
+        "id": "21IW3vR2PDuJ"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Lenguaje Java\n",
+        "**Introducción:**\n",
+        "Java es un lenguaje orientado a objetos, ampliamente utilizado para desarrollar aplicaciones empresariales, aplicaciones Android y sistemas de gran escala. Su lema es \"escribe una vez, ejecuta en cualquier lugar\".\n",
+        "**Hola mundo:**\n"
+      ],
+      "metadata": {
+        "id": "hW5BQEuqPJpQ"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "public class HolaMundo {\n",
+        "    public static void main(String[] args) {\n",
+        "        System.out.println(\"Hola, Mundo\");\n",
+        "    }\n",
+        "}"
+      ],
+      "metadata": {
+        "id": "BQmlt4DYPYJw"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#Lenguaje PHP\n",
+        "**Introducción:**\n",
+        "PHP es un lenguaje de programación orientado al desarrollo web. Se ejecuta en el servidor y es ampliamente utilizado para crear sitios web dinámicos y sistemas de gestión de contenido.\n"
+      ],
+      "metadata": {
+        "id": "-7T1JQ_1Phdv"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "<?php\n",
+        "echo \"Hola, Mundo\";\n",
+        "?>"
+      ],
+      "metadata": {
+        "id": "i5hOOUvzPs4m"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
